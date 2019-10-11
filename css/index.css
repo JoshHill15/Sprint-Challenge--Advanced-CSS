@@ -227,11 +227,11 @@ footer {
   max-width: 1000px;
 }
 .all .home {
-  margin-top: 8%;
+  margin-top: 9%;
 }
 @media (max-width: 500px) {
   .all .home {
-    margin-top: 13%;
+    margin-top: 14.5%;
   }
 }
 .all .home .intro h2 {
@@ -286,7 +286,9 @@ footer {
 @media (max-width: 500px) {
   .all .home .walk {
     flex-direction: column-reverse;
-    padding: 0 0 0 5%;
+    padding: 3% 0 0 5%;
+    border-top: 1px solid #dee2e6;
+    margin: 4% 0 0 0;
   }
 }
 .all .home .walk .walk-text {
