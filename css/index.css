@@ -225,6 +225,7 @@ footer {
 .all {
   width: 100%;
   max-width: 1000px;
+  margin: 0 auto;
 }
 .all .home {
   margin-top: 9%;
